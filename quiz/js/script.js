@@ -135,7 +135,7 @@ function showFinalScreen() {
 }
 
 function resgatarPremio() {
-    window.location.href = "https://google.com";
+    window.location.href = "https://recebacrocshoje.vercel.app/";
 }
 
 window.onload = loadQuestion;
